@@ -1,8 +1,12 @@
+# Hi, I'm Felix Costa 
+
+[![Site](https://img.shields.io/static/v1?label=fxcosta.com&message=%20&color=blue&style=flat-square&logoColor=white)](https://fxcosta.com/)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/fxcosta)
+
 Felix Costa is CTO and partner at Sotero Tech and has 8 years of experience with software development. Graduated in Information Systems at UNIME-BA, he currently serves as leader of development teams and as a solutions architect.
 
 Passionate about code, Felix believes that technology has the power to change lives and transforms this challenge into lines of code. Self-taught, he has experience with several different technologies, languages and frameworks.
 
-my site: https://fxcosta.com
 <!--
 **fxcosta/fxcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
