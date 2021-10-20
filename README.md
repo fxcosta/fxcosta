@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/fxcosta)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/fxcosta)
 
-Felix Costa is CTO and partner at Sotero Tech and has 8 years of experience with software development. Graduated in Information Systems at UNIME-BA, he currently serves as leader of development teams and as a solutions architect.
+Felix Costa is CTO and partner at Sotero Tech and has 10 years of experience with software development. Graduated in Information Systems at UNIME-BA, he currently serves as leader of development teams and as a solutions architect.
 
 Passionate about code, Felix believes that technology has the power to change lives and transforms this challenge into lines of code. Self-taught, he has experience with several different technologies, languages and frameworks.
 
