@@ -9,7 +9,7 @@ I've been working with software development for 10 years, graduated in Informati
 I am passionate about code, quality and software architecture with experience in different market segments.
 Solving the world's problems and challenges through technology is one of my missions.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fxcosta)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=fxcosta)](https://git.io/streak-stats) -->
 
 <!--
 **fxcosta/fxcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
