@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/fxcosta)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/fxcosta)
 
-I've been working with software development for 10 years, graduated in Information Systems and currently I'm CTO and partner at Sotero Tech, where I work as leader of development teams and software architect.
+I've been working with software development for 12 years, graduated in Information Systems and currently I'm CTO and partner at Sotero Tech, where I work as leader of development teams and software architect.
 
 I am passionate about code, quality and software architecture with experience in different market segments.
 Solving the world's problems and challenges through technology is one of my missions.
