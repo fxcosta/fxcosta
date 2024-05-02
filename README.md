@@ -1,6 +1,6 @@
 # Hi, I'm Felix Costa 
 
-[![Site](https://img.shields.io/static/v1?label=fxcosta.com&message=%20&color=blue&style=flat-square&logoColor=white)](https://fxcosta.com/)
+[![Site](https://img.shields.io/static/v1?label=fxcosta.com&message=%20&color=blue&style=flat-square&logoColor=white)](https://fx3costa.com/)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/fxcosta)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/fxcosta)
 
