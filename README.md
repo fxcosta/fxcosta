@@ -4,10 +4,24 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/fxcosta)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/fxcosta)
 
-I've been working with software development for 12 years, graduated in Information Systems and currently I'm CTO and partner at Sotero Tech, where I work as leader of development teams and software architect.
+I’ve been working with software for over a decade, building and leading projects across different industries, teams, and levels of complexity. Along the way, I've developed not only strong technical skills but also a solid understanding of product, business, and - most importantly - people.
 
-I am passionate about code, quality and software architecture with experience in different market segments.
-Solving the world's problems and challenges through technology is one of my missions.
+I’m currently CTO and partner at Sotero Tech, where I lead technical strategy, solution architecture, and development teams across multiple products and custom projects. My role sits at the intersection of business and engineering: translating goals into scalable, maintainable, and well-designed systems.
+
+I’m hands-on when it matters, but my main focus is designing solutions, guiding teams, making technical decisions, and helping projects move forward in a sustainable way.
+
+I care deeply about clean code, software quality, and system architecture. I enjoy working across the stack from backend and APIs to frontend, mobile, cloud, and infrastructure, always choosing technologies based on the problem, not just trends.
+
+Tech background:
+- PHP: Symfony, Laravel, Zend Framework, ReactPHP, Swoole;
+- JavaScript / TypeScript: Nodejs, React, Vuejs, Angular;
+- Python: Flask, Django;
+- C#: .NET, ASP.NET, Unity3D;
+- Mobile: React Native, Xamarin / MAUI, Flutter;
+- Cloud-based, messaging, system integrations, legacy systems;
+
+I occasionally write about technology and software engineering:
+https://fx3costa.com
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=fxcosta)](https://git.io/streak-stats) -->
 
